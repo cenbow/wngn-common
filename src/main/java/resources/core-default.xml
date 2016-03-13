@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property>
+        <name>wngn-common-version</name>
+        <value>1.0.0</value>
+        <description>
+        	version for test
+        </description>
+    </property>
+</configuration>

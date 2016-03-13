@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property>
+        <name>project-version</name>
+        <value>true</value>
+        <description>
+        	project-version for test
+        </description>
+    </property>
+</configuration>

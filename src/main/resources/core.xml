@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property>
+        <name>classes-version</name>
+        <value>true</value>
+        <description>
+        	classes-version for test
+        </description>
+    </property>
+</configuration>
